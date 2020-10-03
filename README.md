@@ -1,5 +1,6 @@
 # PostCure
-A posture correction device for back and neck
+A posture correction device for back and neck.
+
 https://thinkmakestart.info/postcure/
 
 
