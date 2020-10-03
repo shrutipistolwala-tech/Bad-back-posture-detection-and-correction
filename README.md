@@ -13,6 +13,8 @@ If you want to, you’ll be notified about incorrect posture via vibrations at t
 Active guidance  into the correct posture – further information displayed in the app.
 
 Microcontroller: Arduino Mega
+
 Sensors: Accelerometer, Flex Sensor, Servos
-Power Supply
+
+Power Supply (5V)
 
