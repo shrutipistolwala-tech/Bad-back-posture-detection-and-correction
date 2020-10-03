@@ -14,7 +14,7 @@ Active guidance  into the correct posture – further information displayed in t
 
 Microcontroller: Arduino Mega
 
-Sensors: Accelerometer, Flex Sensor, Servos
+Sensors: Accelerometer, Flex Sensor, Servos, Vibration Motor.
 
 Power Supply (5V)
 
